@@ -6,3 +6,4 @@ else:
     print(bil, "Adalah Ganjil")
 
 print("kode ini saya buat di codespace")
+print("ini adalah perubahan kode pertama")
